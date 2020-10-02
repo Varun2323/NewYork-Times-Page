@@ -35,7 +35,7 @@ Project based The New York Times page, it shows a Subscribe Now and Log In butto
  
  
  
-  [Live demo link](https://ultramax.github.io/HTML-Forms/)
+  [Live demo link](https://varun2323.github.io/NewYork-Times-Page/)
  
  
 ### **Getting Started:**
