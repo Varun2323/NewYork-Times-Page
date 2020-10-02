@@ -4,32 +4,47 @@ body {
 }
 
 .navbar {
-    margin-top: 10px;
-    display: flex;
-    border-bottom: 1px solid lightgray;
+    border-bottom: 1px solid grey;
+    height: 50px;
 }
 
+ nav ul {
+     margin-top: 5px;
+     list-style-type: none;
+     display: flex;
+ }
+
+ nav a {
+     text-decoration: none;
+     color: black;
+ }
+
+ nav p {
+     margin-top: 0px;
+     margin-left: 20px;
+ }
 .menu-icon {
-    margin-left: 10px;
-    margin-top: 2px;
-    cursor: pointer;
+    margin-top: 10px;
 }
 
 .search-icon {
-    margin-left: 30px;
-    cursor: pointer;
-    margin-top: 2px;
+    margin-left: 25px;
+    margin-top: 10px;
 }
 
-.spaceCosmos {
-    margin-left: 30px;
+.space {
+    font-family: nyt-franklin,helvetica,arial,sans-serif;
+    margin-top:13px;
+    margin-left: 25px;
+    font-weight: 700;
     font-size: 16px;
-    font-family: nyt-franklin, helvetica, arial, sans-serif;
-    font-weight: 600;
-    color: black;
-    text-decoration: none;
-    line-height: 30px;
-    margin-top: 2px;
+    
+}
+
+nav img {
+    height:40px;
+    margin-left: 300px;
+    margin-top: 5px;
 }
 
 .times-logo {
