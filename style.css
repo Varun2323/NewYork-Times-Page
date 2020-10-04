@@ -42,18 +42,12 @@ body {
 }
 
 
-nav img {
-    height:40px;
-    margin-left: 280px;
-    margin-top: 5px;
-}
-
 .times-logo {
     display: block;
-    margin-left: 300px;
+    margin-left: 450px;
     cursor: pointer;
     height: 42px;
-    width:220px;
+    margin-top: 5px;
 }
 
 .subscribe-btn {
@@ -69,7 +63,7 @@ nav img {
     width: 150px;
     height: 42px;
     text-align: center;
-    margin-left: 270px;
+    margin-left: 510px;
     cursor: pointer;
     margin-bottom: 8px;
 }
@@ -79,7 +73,7 @@ nav img {
     border: 1px solid rgb(50, 104, 145);
     font-family: nyt-franklin, helvetica, arial, sans-serif;
     border-radius: 3px;
-    width: 70px;
+    width: 100px;
     height: 42px;
     color: white;
     font-weight: 700;
