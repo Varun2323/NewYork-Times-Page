@@ -8,21 +8,22 @@ body {
     height: 50px;
 }
 
- nav ul {
-     margin-top: 5px;
-     list-style-type: none;
-     display: flex;
- }
+nav ul {
+    margin-top: 5px;
+    list-style-type: none;
+    display: flex;
+}
 
- nav a {
-     text-decoration: none;
-     color: black;
- }
+nav a {
+    text-decoration: none;
+    color: black;
+}
 
- nav p {
-     margin-top: 0px;
-     margin-left: 20px;
- }
+nav p {
+    margin-top: 0px;
+    margin-left: 20px;
+}
+
 .menu-icon {
     margin-top: 10px;
 }
@@ -33,21 +34,19 @@ body {
 }
 
 .space {
-    font-family: nyt-franklin,helvetica,arial,sans-serif;
-    margin-top:13px;
+    font-family: nyt-franklin, helvetica, arial, sans-serif;
+    margin-top: 13px;
     margin-left: 25px;
     font-weight: 700;
     font-size: 16px;
-    
 }
-
 
 .times-logo {
     display: block;
     margin-left: 440px;
     cursor: pointer;
     height: 47px;
-    width:280px;
+    width: 280px;
 }
 
 .subscribe-btn {
@@ -125,7 +124,7 @@ body {
     color: #333;
     letter-spacing: 0.02em;
     font-size: 18px;
-    margin-left: 400px;
+    margin-left: 550px;
     margin-top: 60px;
 }
 
@@ -135,7 +134,7 @@ body {
     color: #333;
     letter-spacing: 0.02em;
     margin-top: 20px;
-    margin-left: 400px;
+    margin-left: 550px;
 }
 
 .dennis-logo {
@@ -170,6 +169,10 @@ body {
     line-height: 35px;
 }
 
+.kovac {
+    padding-top: 10px;
+}
+
 .cambridgeMass p a {
     color: #326891;
 }
@@ -191,6 +194,11 @@ body {
     float: right;
     margin-top: -1600px;
     margin-right: 50px;
+}
+
+.right a {
+    text-decoration: none;
+    color: black;
 }
 
 .aside-head {
@@ -272,13 +280,21 @@ body {
 
 .para-l {
     display: block;
-    margin-left: -150px;
+    margin-top: 20px;
+    padding-top: 10px;
+    font-weight: 500;
+    font-style: normal;
+    font-family: nyt-franklin, arial, helvetica, sans-serif;
 }
+
+
 
 .video-a, .telescope-img {
     height: 350px;
     width: 700px;
 }
+
+
 
 .secondVideo p, .headline-para p {
     display: block;
@@ -296,6 +312,13 @@ body {
     color: rgb(102, 102, 102);
 }
 
+.telescope p {
+    font-family: nyt-imperial,georgia,'times new roman',times,serif;
+    
+    font-size: 15px;
+    line-height: 25px;
+    color: #666;
+}
 .comment-btn {
     background-color: rgb(86, 123, 149);
     border: 1px solid rgb(50, 104, 145);
@@ -333,7 +356,7 @@ body {
     grid-template-columns: 200px 200px 200px 200px;
     width: 75%;
     padding-top: 160px;
-    grid-column-gap: 90px;
+    grid-column-gap: 150px;
     grid-row-gap: 185px;
     font-size: 14px;
     line-height: 17px;
@@ -342,7 +365,14 @@ body {
 }
 
 .grid-container p {
-    width: 250px;
+    width: 270px;
+    margin-top: 70px;
+    font-size: 16px;
+    font-family: nyt-franklin, arial, helvetica, sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 300;
+    color: #000000;
 }
 
 .main-flex {
