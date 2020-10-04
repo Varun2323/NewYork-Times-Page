@@ -6,14 +6,13 @@ body {
 .navbar {
     border-bottom: 1px solid grey;
     height: 50px;
-    position : fixed;
+    position: fixed;
 }
 
 nav ul {
     margin-top: 5px;
     list-style-type: none;
     display: flex;
-    
 }
 
 nav a {
@@ -289,14 +288,10 @@ nav p {
     font-family: nyt-franklin, arial, helvetica, sans-serif;
 }
 
-
-
 .video-a, .telescope-img {
     height: 350px;
     width: 700px;
 }
-
-
 
 .secondVideo p, .headline-para p {
     display: block;
@@ -315,12 +310,12 @@ nav p {
 }
 
 .telescope p {
-    font-family: nyt-imperial,georgia,'times new roman',times,serif;
-    
+    font-family: nyt-imperial, georgia, 'times new roman', times, serif;
     font-size: 15px;
     line-height: 25px;
     color: #666;
 }
+
 .comment-btn {
     background-color: rgb(86, 123, 149);
     border: 1px solid rgb(50, 104, 145);
@@ -417,25 +412,20 @@ nav p {
     font-family: nyt-cheltenham, georgia, "times new roman", times, serif;
     font-weight: 500;
     font-size: 20px;
-    
 }
 
 .grid-container-left span {
-    
-    color:#666;
+    color: #666;
     font-size: 13px;
-    
     margin-bottom: -20px;
-    float:right;
+    float: right;
 }
 
-.grid-container-left  p > span {
-    float:left;
+.grid-container-left p>span {
+    float: left;
     margin-top: 5px;
     font-size: 16px;
-    
 }
-
 
 .left-bottom-section {
     margin-left: 0;
@@ -497,7 +487,6 @@ nav p {
 
 .opinion, .arts, .atHome, .more, .subscribe {
     margin-left: 30px;
-    
 }
 
 .subscribe {
@@ -505,19 +494,16 @@ nav p {
     padding-left: 20px;
 }
 
-.subscribe li > a {
-    
+.subscribe li>a {
     text-decoration: none;
-    color:black;
+    color: black;
     width: 250px;
     font-size: 18px;
     font-weight: 700;
     height: 25px;
     line-height: 15px;
     padding-bottom: 50px;
-    
 }
-
 
 .subscribe li {
     font-size: 13px;
@@ -551,7 +537,7 @@ nav p {
 }
 
 .footer-end li {
-    color:#666;
+    color: #666;
     display: flex;
     display: inline-block;
     line-height: 20px;
