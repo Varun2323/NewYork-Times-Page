@@ -44,10 +44,10 @@ body {
 
 .times-logo {
     display: block;
-    margin-left: 450px;
+    margin-left: 440px;
     cursor: pointer;
-    height: 42px;
-    margin-top: 5px;
+    height: 47px;
+    width:280px;
 }
 
 .subscribe-btn {
@@ -63,7 +63,7 @@ body {
     width: 150px;
     height: 42px;
     text-align: center;
-    margin-left: 510px;
+    margin-left: 520px;
     cursor: pointer;
     margin-bottom: 8px;
 }
@@ -109,8 +109,8 @@ body {
     color: #666;
     font-family: nyt-imperial, georgia, 'times new roman', times, serif;
     font-size: large;
-    line-height: normal;
-    margin-left: 188px;
+    line-height: 25px;
+    margin-left: 350px;
     font-weight: 500px;
 }
 
