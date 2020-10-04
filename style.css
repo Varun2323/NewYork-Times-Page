@@ -383,30 +383,30 @@ nav p {
 }
 
 .left-grid-section, .left-bottom-section {
-    margin-left: 40px;
+    margin-left: 90px;
     display: block;
     float: left;
-    width: 950px;
+    width: 1125px;
     border-top: 1px solid black;
 }
 
 .right-grid-section {
     display: block;
-    margin-left: 70px;
+    margin-left: 85px;
     width: 400px;
     border-top: 1px solid black;
 }
 
 .grid-container-left, .grid-container-left-bottom {
     display: grid;
-    grid-template-columns: 300px 300px 300px;
+    grid-template-columns: 350px 350px 350px;
     grid-column-gap: 40px;
     grid-row-gap: 30px;
 }
 
 .grid-container-left img, .grid-container-left-bottom img {
-    width: 290px;
-    height: 190px;
+    width: 350px;
+    height: 220px;
 }
 
 .grid-container-left p, .left-bottom-section p {
