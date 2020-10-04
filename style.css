@@ -6,12 +6,14 @@ body {
 .navbar {
     border-bottom: 1px solid grey;
     height: 50px;
+    position : fixed;
 }
 
 nav ul {
     margin-top: 5px;
     list-style-type: none;
     display: flex;
+    
 }
 
 nav a {
@@ -45,7 +47,7 @@ nav p {
     display: block;
     margin-left: 440px;
     cursor: pointer;
-    height: 47px;
+    height: 40px;
     width: 280px;
 }
 
@@ -415,7 +417,25 @@ nav p {
     font-family: nyt-cheltenham, georgia, "times new roman", times, serif;
     font-weight: 500;
     font-size: 20px;
+    
 }
+
+.grid-container-left span {
+    
+    color:#666;
+    font-size: 13px;
+    
+    margin-bottom: -20px;
+    float:right;
+}
+
+.grid-container-left  p > span {
+    float:left;
+    margin-top: 5px;
+    font-size: 16px;
+    
+}
+
 
 .left-bottom-section {
     margin-left: 0;
@@ -448,6 +468,7 @@ nav p {
 
 .footer-logo {
     margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 .footer-logo img {
@@ -475,7 +496,8 @@ nav p {
 }
 
 .opinion, .arts, .atHome, .more, .subscribe {
-    margin-left: 10px;
+    margin-left: 30px;
+    
 }
 
 .subscribe {
@@ -483,26 +505,19 @@ nav p {
     padding-left: 20px;
 }
 
-.subscribe a {
+.subscribe li > a {
+    
     text-decoration: none;
-    width: 150px;
-    font-size: 16px;
+    color:black;
+    width: 250px;
+    font-size: 18px;
     font-weight: 700;
     height: 25px;
     line-height: 15px;
-    padding-bottom: 0px;
+    padding-bottom: 50px;
+    
 }
 
-.subscribe a li {
-    display: inline-block;
-    vertical-align: middle;
-    font-family: nyt-franklin, helvetica, arial, sans-serif;
-    text-transform: capitalize;
-    font-size: 19px;
-    font-weight: 700;
-    line-height: 15px;
-    margin-bottom: 10px;
-}
 
 .subscribe li {
     font-size: 13px;
@@ -536,9 +551,10 @@ nav p {
 }
 
 .footer-end li {
+    color:#666;
     display: flex;
     display: inline-block;
     line-height: 20px;
-    font-size: 14px;
-    margin-left: 10px;
+    font-size: 16px;
+    margin-left: 14px;
 }
