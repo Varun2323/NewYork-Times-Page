@@ -1,23 +1,23 @@
 body {
- margin: 0;
- padding: 0;
+    margin: 0;
+    padding: 0;
 }
 
 .navbar {
- border-bottom: 1px solid lightgray;
- height: 45px;
+    border-bottom: 1px solid lightgray;
+    height: 45px;
     background-color: white;
     position: fixed;
 }
 
 nav ul {
- margin-top: 5px;
+    margin-top: 5px;
     list-style-type: none;
     display: flex;
 }
 
 nav a {
- text-decoration: none;
+    text-decoration: none;
     color: black;
 }
 
@@ -27,16 +27,16 @@ nav p {
 }
 
 .menu-icon {
- margin-top: 10px;
+    margin-top: 10px;
 }
 
 .search-icon {
- margin-left: 25px;
+    margin-left: 25px;
     margin-top: 10px;
 }
 
 .space {
- font-family: nyt-franklin, helvetica, arial, sans-serif;
+    font-family: nyt-franklin, helvetica, arial, sans-serif;
     display: block;
     margin-top: 15px;
     margin-left: 25px;
@@ -45,7 +45,7 @@ nav p {
 }
 
 .times-logo {
- display: block;
+    display: block;
     margin-left: 250px;
     cursor: pointer;
     height: 40px;
@@ -53,7 +53,7 @@ nav p {
 }
 
 .subscribe-btn {
- background-color: rgb(86, 123, 149);
+    background-color: rgb(86, 123, 149);
     border: 1px solid rgb(50, 104, 145);
     font-family: nyt-franklin, helvetica, arial, sans-serif;
     line-height: 11px;
@@ -71,7 +71,7 @@ nav p {
 }
 
 .log-in-btn {
-  background-color: rgb(86, 123, 149);
+    background-color: rgb(86, 123, 149);
     border: 1px solid rgb(50, 104, 145);
     font-family: nyt-franklin, helvetica, arial, sans-serif;
     border-radius: 3px;
@@ -87,7 +87,7 @@ nav p {
 }
 
 .space-text {
- display: block;
+    display: block;
     color: #121212;
     font-family: nyt-cheltenham, georgia, 'times new roman', times, serif;
     font-weight: 540;
@@ -99,7 +99,7 @@ nav p {
 }
 
 .alan-guth-img {
- display: block;
+    display: block;
     margin: auto;
     width: 950px;
     height: 600px;
@@ -107,7 +107,7 @@ nav p {
 }
 
 .alanDescription {
- display: block;
+    display: block;
     color: #666;
     font-family: nyt-imperial, georgia, 'times new roman', times, serif;
     font-size: normal;
@@ -117,11 +117,11 @@ nav p {
 }
 
 .alanDes {
- color: lightgrey;
+    color: lightgrey;
 }
 
 .dennis {
- display: block;
+    display: block;
     font-family: nyt-franklin, helvetica, arial, sans-serif;
     font-weight: 700;
     color: #333;
@@ -467,6 +467,11 @@ nav p {
     display: flex;
 }
 
+.flex-bottom a {
+text-decoration: none;
+color:black;
+}
+
 .flex-bottom li {
     display: block;
     text-decoration: none;
@@ -490,7 +495,7 @@ nav p {
     padding-left: 20px;
 }
 
-.subscribe li>a {
+.subscribe li > a {
     text-decoration: none;
     color: black;
     font-size: 18px;
