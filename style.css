@@ -37,7 +37,7 @@ nav p {
 
 .space {
     font-family: nyt-franklin, helvetica, arial, sans-serif;
-    display:block;
+    display: block;
     margin-top: 15px;
     margin-left: 25px;
     font-weight: 700;
@@ -257,7 +257,7 @@ nav p {
     color: #666;
 }
 
-.image-grid-top , .image-grid-section{
+.image-grid-top, .image-grid-section {
     margin: auto;
     width: 76%;
     padding-top: 20px;
@@ -268,8 +268,6 @@ nav p {
     background-repeat: no-repeat;
     background-size: contain;
 }
-
-
 
 .line {
     display: block;
@@ -419,7 +417,7 @@ nav p {
     float: right;
 }
 
-.grid-container-left p > span {
+.grid-container-left p>span {
     float: left;
     margin-top: 5px;
     font-size: 16px;
@@ -446,7 +444,7 @@ nav p {
     line-height: 35px;
 }
 
-.footer , .footer-end {
+.footer, .footer-end {
     display: block;
     border-top: 1px solid lightgray;
     margin-top: 40px;
@@ -492,7 +490,7 @@ nav p {
     padding-left: 20px;
 }
 
-.subscribe li > a {
+.subscribe li>a {
     text-decoration: none;
     color: black;
     font-size: 18px;
@@ -504,7 +502,7 @@ nav p {
 
 .subscribe li {
     display: block;
-    width:250px;
+    width: 250px;
     font-size: 13px;
 }
 
@@ -526,14 +524,6 @@ nav p {
     margin-right: 7px;
     vertical-align: middle;
 }
-
-/* .footer-end {
-    display: block;
-    margin-top: 5px;
-    border-top: 1px solid lightgrey;
-    margin-left: 40px;
-    margin-right: 40px;
-} */
 
 .footer-end li {
     color: #666;
