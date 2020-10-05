@@ -37,6 +37,7 @@ nav p {
 
 .space {
     font-family: nyt-franklin, helvetica, arial, sans-serif;
+    display:block;
     margin-top: 15px;
     margin-left: 25px;
     font-weight: 700;
@@ -445,7 +446,7 @@ nav p {
     line-height: 35px;
 }
 
-.footer {
+.footer , .footer-end {
     display: block;
     border-top: 1px solid lightgray;
     margin-top: 40px;
@@ -474,7 +475,7 @@ nav p {
     font-family: nyt-franklin, helvetica, arial, sans-serif;
     color: rgb(0, 0, 0);
     text-transform: capitalize;
-    width: 220px;
+    width: 160px;
     font-size: 16px;
     font-weight: 500;
     height: 23px;
@@ -491,10 +492,9 @@ nav p {
     padding-left: 20px;
 }
 
-.subscribe li>a {
+.subscribe li > a {
     text-decoration: none;
     color: black;
-    width: 250px;
     font-size: 18px;
     font-weight: 700;
     height: 25px;
@@ -503,6 +503,8 @@ nav p {
 }
 
 .subscribe li {
+    display: block;
+    width:250px;
     font-size: 13px;
 }
 
@@ -525,19 +527,19 @@ nav p {
     vertical-align: middle;
 }
 
-.footer-end {
+/* .footer-end {
     display: block;
     margin-top: 5px;
     border-top: 1px solid lightgrey;
     margin-left: 40px;
     margin-right: 40px;
-}
+} */
 
 .footer-end li {
     color: #666;
     display: flex;
     display: inline-block;
     line-height: 20px;
-    font-size: 16px;
+    font-size: 12px;
     margin-left: 14px;
 }
