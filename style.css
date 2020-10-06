@@ -1,59 +1,59 @@
 body {
     margin: 0;
     padding: 0;
-  }
-  
+}
+
 .navbar {
     border-bottom: 1px solid lightgray;
     height: 45px;
     background-color: white;
     position: fixed;
-  }
-  
+}
+
 nav ul {
     margin-top: 5px;
     list-style-type: none;
     display: flex;
-  }
-  
-  nav a {
+}
+
+nav a {
     text-decoration: none;
     color: black;
-  }
-  
-  nav p {
+}
+
+nav p {
     margin-top: 0px;
     margin-left: 20px;
-  }
-  
-  .menu-icon {
+}
+
+.menu-icon {
     margin-top: 10px;
-  }
-  
-  .search-icon {
+}
+
+.search-icon {
     margin-left: 25px;
     margin-top: 10px;
-  }
-  
-  .space {
+}
+
+.space {
     font-family: nyt-franklin, helvetica, arial, sans-serif;
     display: block;
-    width:150px;
+    width: 150px;
     margin-top: 15px;
     margin-left: 25px;
     font-weight: 700;
     font-size: 16px;
-  }
-  
-  .times-logo {
+}
+
+.times-logo {
     display: block;
     margin-left: 250px;
     cursor: pointer;
     height: 40px;
     width: 210px;
-  }
-  
-  .subscribe-btn {
+}
+
+.subscribe-btn {
     background-color: rgb(86, 123, 149);
     border: 1px solid rgb(50, 104, 145);
     font-family: nyt-franklin, helvetica, arial, sans-serif;
@@ -66,12 +66,12 @@ nav ul {
     width: 150px;
     height: 35px;
     text-align: center;
-    margin-left: 325px;
+    margin-left: 335px;
     cursor: pointer;
     margin-bottom: 8px;
-  }
-  
-  .log-in-btn {
+}
+
+.log-in-btn {
     background-color: rgb(86, 123, 149);
     border: 1px solid rgb(50, 104, 145);
     font-family: nyt-franklin, helvetica, arial, sans-serif;
@@ -85,9 +85,9 @@ nav ul {
     text-transform: uppercase;
     margin-left: 10px;
     cursor: pointer;
-  }
-  
-  .space-text {
+}
+
+.space-text {
     display: block;
     color: #121212;
     font-family: nyt-cheltenham, georgia, 'times new roman', times, serif;
@@ -97,17 +97,17 @@ nav ul {
     margin: auto;
     padding-top: 100px;
     font-size: 2.5em;
-  }
-  
-  .alan-guth-img {
+}
+
+.alan-guth-img {
     display: block;
     margin: auto;
     width: 950px;
     height: 600px;
     padding-top: 30px;
-  }
-  
-  .alanDescription {
+}
+
+.alanDescription {
     display: block;
     color: #666;
     font-family: nyt-imperial, georgia, 'times new roman', times, serif;
@@ -115,13 +115,13 @@ nav ul {
     line-height: 25px;
     margin-left: 200px;
     font-weight: 500px;
-  }
-  
-  .alanDes {
+}
+
+.alanDes {
     color: lightgrey;
-  }
-  
-  .dennis {
+}
+
+.dennis {
     display: block;
     font-family: nyt-franklin, helvetica, arial, sans-serif;
     font-weight: 700;
@@ -130,9 +130,9 @@ nav ul {
     font-size: 15px;
     margin-left: 320px;
     margin-top: 60px;
-  }
-  
-  .dennis-date {
+}
+
+.dennis-date {
     display: block;
     font-family: nyt-franklin, helvetica, arial, sans-serif;
     color: #333;
@@ -140,115 +140,104 @@ nav ul {
     margin-top: 15px;
     font-size: 15px;
     margin-left: 320px;
-  }
-  
-  .dennis-logo {
+}
+
+.dennis-logo {
     display: flex;
-  }
-  
-  .mainOutline,
-  .redoCircle,
-  .bookmark,
-  .chatbox {
+}
+
+.mainOutline, .redoCircle, .bookmark, .chatbox {
     height: 25px;
     width: 25px;
     margin-top: 10px;
-  }
-  
-  .mainOutline {
+}
+
+.mainOutline {
     margin-left: 390px;
-  }
-  
-  .redoCircle,
-  .bookmark,
-  .chatbox {
+}
+
+.redoCircle, .bookmark, .chatbox {
     margin-left: 20px;
-  }
-  
-  .cambridgeMass,
-  .kovac {
+}
+
+.cambridgeMass, .kovac {
     width: 700px;
     margin: auto;
-  }
-  
-  .cambridgeMass p,
-  .kovac p,
-  .doc-para p,
-  .telescope-p {
+}
+
+.cambridgeMass p, .kovac p, .doc-para p, .telescope-p {
     font-family: nyt-imperial, georgia, 'times new roman', times, serif;
     font-weight: 500;
     font-size: 20px;
     font-stretch: normal;
     line-height: 35px;
-  }
-  
-  .kovac {
+}
+
+.kovac {
     padding-top: 10px;
-  }
-  
-  .cambridgeMass p a {
+}
+
+.cambridgeMass p a {
     color: #326891;
-  }
-  
-  .border p {
+}
+
+.border p {
     font-family: nyt-imperial, georgia, 'times new roman', times, serif;
     font-weight: 700;
     display: block;
     text-align: center;
     margin: auto;
-  }
-  
-  .small-border {
+}
+
+.small-border {
     width: 80px;
-  }
-  
-  .right {
+}
+
+.right {
     display: block;
     float: right;
     margin-top: -1600px;
     margin-right: 20px;
-  }
-  
-  .right a {
+}
+
+.right a {
     text-decoration: none;
     color: black;
-  }
-  
-  .aside-head {
+}
+
+.aside-head {
     display: inline-block;
     font-family: nyt-franklin, helvetica, arial, sans-serif;
     font-weight: 700;
     padding-bottom: 10px;
     height: 10px;
-  }
-  
-  .aside-content {
+}
+
+.aside-content {
     border-top: 1px solid lightgrey;
     padding-top: 18px;
-  }
-  
-  .aside-content img {
+}
+
+.aside-content img {
     width: 80px;
     height: 80px;
-  }
-  
-  .aside-content-a,
-  .aside-content-b,
-  .aside-content-c {
+}
+
+.aside-content-a, .aside-content-b, .aside-content-c {
     display: flex;
     padding-bottom: 10px;
     margin-bottom: 10px;
-  }
-  
-  .aside-content-c {
+}
+
+.aside-content-c {
     margin-top: -25px;
-  }
-  
-  .aside-content-c p {
+}
+
+.aside-content-c p {
     padding-top: 15px;
-  }
-  
-  .aside-content p {
+}
+
+.aside-content p {
     font-family: nyt-franklin, helvetica, arial, sans-serif;
     width: 150px;
     margin-left: 10px;
@@ -256,79 +245,76 @@ nav ul {
     font-size: 13px;
     margin-top: -4px;
     font-weight: 500;
-  }
-  
-  .paraBold {
+}
+
+.paraBold {
     font-weight: 700;
-  }
-  
-  .summary-text {
+}
+
+.summary-text {
     font-weight: 400;
     font-style: normal;
     font-family: nyt-cheltenham-sh, georgia, times new roman, times, serif;
     color: #666;
-  }
-  
-  .image-grid-top,
-  .image-grid-section {
+}
+
+.image-grid-top, .image-grid-section {
     margin: auto;
     width: 76%;
     padding-top: 20px;
-  }
-  
-  .image-grid-section {
+}
+
+.image-grid-section {
     background-image: url("https://static01.nyt.com/newsgraphics/2014/03/18/theory-of-inflation/1ebaa1b972edda0f407fbaa0e010f6b50fb6792e/inflation-945.png");
     background-repeat: no-repeat;
     background-size: contain;
-  }
-  
-  .line {
+}
+
+.line {
     display: block;
     width: 75px;
     border: 0.5px solid grey;
     float: left;
-  }
-  
-  .para-l {
+}
+
+.para-l {
     font-family: nyt-franklin, arial, helvetica, sans-serif;
     display: block;
     margin-top: 20px;
     padding-top: 5px;
     font-weight: 500;
     font-style: 28px;
-  }
-  
-  .video-a,
-  .telescope-img {
+}
+
+.video-a, .telescope-img {
     height: 350px;
     width: 700px;
-  }
-  
-  .secondVideo p,
-  .headline-para p {
+}
+
+.secondVideo p, .headline-para p {
     display: block;
     color: #666;
     font-family: nyt-imperial, georgia, 'times new roman', times, serif;
     font-size: 0.9375rem;
     line-height: 1.25rem;
-  }
-  
-  .headline-para {
+}
+
+.headline-para {
     display: block;
     font-size: 2px;
     width: 700px;
     margin: 0px auto 1em;
     color: rgb(102, 102, 102);
-  }
-  
-  .telescope p {
+}
+
+.telescope p {
     font-family: nyt-imperial, georgia, 'times new roman', times, serif;
     font-size: 15px;
     line-height: 25px;
     color: #666;
-  }
-  
-  .comment-btn {
+}
+
+.comment-btn {
     background-color: rgb(86, 123, 149);
     border: 1px solid rgb(50, 104, 145);
     font-family: nyt-franklin, helvetica, arial, sans-serif;
@@ -343,24 +329,23 @@ nav ul {
     text-align: center;
     cursor: pointer;
     margin-bottom: 8px;
-  }
-  
-  .cmt-btn-icon-a,
-  .cmt-btn-icon-b {
+}
+
+.cmt-btn-icon-a, .cmt-btn-icon-b {
     height: 30px;
     width: 30px;
     padding-top: 10p;
-  }
-  
-  .cmt-btn-icon-a {
+}
+
+.cmt-btn-icon-a {
     margin-left: 250px;
-  }
-  
-  .cmt-btn-icon-b {
+}
+
+.cmt-btn-icon-b {
     margin-left: 20px;
-  }
-  
-  .grid-container {
+}
+
+.grid-container {
     font-family: nyt-franklin, arial, helvetica, sans-serif;
     display: grid;
     grid-template-columns: 140px 140px 140px 140px;
@@ -370,9 +355,9 @@ nav ul {
     grid-row-gap: 85px;
     font-weight: 300;
     color: #000000;
-  }
-  
-  .grid-container p {
+}
+
+.grid-container p {
     width: 235px;
     font-family: nyt-franklin, arial, helvetica, sans-serif;
     margin-top: 70px;
@@ -380,83 +365,78 @@ nav ul {
     line-height: 20px;
     font-weight: 300;
     color: #000000;
-  }
-  
-  .main-flex {
+}
+
+.main-flex {
     display: flex;
     margin-top: 50px;
     margin-left: auto;
     margin-right: auto;
-  }
-  
-  .left-grid-section,
-  .left-bottom-section {
+}
+
+.left-grid-section, .left-bottom-section {
     margin-left: 70px;
     display: block;
     float: left;
     width: 840px;
     border-top: 1px solid black;
-  }
-  
-  .right-grid-section {
+}
+
+.right-grid-section {
     display: block;
     margin-left: 55px;
     width: 320px;
     border-top: 1px solid black;
-  }
-  
-  .right-grid-section a,
-  .left-grid-section a {
+}
+
+.right-grid-section a, .left-grid-section a {
     text-decoration: none;
     color: black;
-  }
-  
-  .grid-container-left,
-  .grid-container-left-bottom {
+}
+
+.grid-container-left, .grid-container-left-bottom {
     display: grid;
     grid-template-columns: 250px 250px 250px;
     grid-column-gap: 40px;
     grid-row-gap: 30px;
-  }
-  
-  .grid-container-left img,
-  .grid-container-left-bottom img {
+}
+
+.grid-container-left img, .grid-container-left-bottom img {
     width: 260px;
     height: 160px;
-  }
-  
-  .grid-container-left p,
-  .left-bottom-section p {
+}
+
+.grid-container-left p, .left-bottom-section p {
     display: block;
     color: rgb(18, 18, 18);
     font-family: nyt-cheltenham, georgia, "times new roman", times, serif;
     font-weight: 500;
     font-size: 18px;
-  }
-  
-  .grid-container-left span {
+}
+
+.grid-container-left span {
     color: #666;
     font-size: 13px;
     margin-bottom: -20px;
     float: right;
-  }
-  
-  .grid-container-left p>span {
+}
+
+.grid-container-left p>span {
     float: left;
     margin-top: 5px;
     font-size: 16px;
-  }
-  
-  .left-bottom-section {
+}
+
+.left-bottom-section {
     margin-left: 0;
-  }
-  
-  .grid-container-right {
+}
+
+.grid-container-right {
     display: grid;
     margin-top: -18px;
-  }
-  
-  .right-grid-section p {
+}
+
+.right-grid-section p {
     display: block;
     color: rgb(18, 18, 18);
     font-family: nyt-cheltenham, georgia, "times new roman", times, serif;
@@ -466,38 +446,37 @@ nav ul {
     padding-top: 10px;
     height: 40px;
     line-height: 35px;
-  }
-  
-  .footer,
-  .footer-end {
+}
+
+.footer-top, .footer-bottom {
     display: block;
     border-top: 1px solid lightgray;
     margin-top: 40px;
     margin-left: 40px;
     margin-right: 40px;
-  }
-  
-  .footer-logo {
+}
+
+.footer-logo {
     margin-top: 30px;
     margin-bottom: 30px;
-  }
-  
-  .footer-logo img {
+}
+
+.footer-logo img {
     display: block;
     height: 35px;
     margin-left: -16px;
-  }
-  
-  .flex-bottom {
+}
+
+.flex-bottom {
     display: flex;
-  }
-  
-  .flex-bottom a {
+}
+
+.flex-bottom a {
     text-decoration: none;
     color: black;
-  }
-  
-  .flex-bottom li {
+}
+
+.flex-bottom li {
     display: block;
     text-decoration: none;
     font-family: nyt-franklin, helvetica, arial, sans-serif;
@@ -509,22 +488,18 @@ nav ul {
     height: 23px;
     line-height: 16px;
     margin-left: -37px;
-  }
-  
-  .opinion,
-  .arts,
-  .atHome,
-  .more,
-  .subscribe {
+}
+
+.opinion, .arts, .atHome, .more, .subscribe {
     margin-left: 30px;
-  }
-  
-  .subscribe {
+}
+
+.subscribe {
     border-left: 1px solid lightgray;
     padding-left: 20px;
-  }
-  
-  .subscribe li>a {
+}
+
+.subscribe li>a {
     text-decoration: none;
     color: black;
     font-size: 18px;
@@ -532,57 +507,96 @@ nav ul {
     height: 25px;
     line-height: 15px;
     padding-bottom: 50px;
-  }
-  
-  .subscribe li {
+}
+
+.subscribe li {
     display: block;
     width: 250px;
     font-size: 13px;
-  }
-  
-  .education {
+}
+
+.education {
     display: inline-block;
     border-bottom: 1px solid lightgray;
     padding-bottom: 10px;
-  }
-  
-  .mob,
-  .email {
+}
+
+.mob, .email {
     display: inline-block;
     margin-top: 10px;
-  }
-  
-  .digital,
-  .home,
-  .games,
-  .cooking {
+}
+
+.digital, .home, .games, .cooking {
     display: inline-block;
     height: 15px;
     width: 15px;
     margin-right: 7px;
     vertical-align: middle;
-  }
-  
-  .footer-end li {
+}
+
+.footer-bottom {
+    position: relative;
+}
+
+.footer-end {
+    display: block;
+    margin-bottom: 80px;
+}
+
+.footer-end li {
     color: #666;
     display: flex;
     display: inline-block;
     line-height: 20px;
     font-size: 12px;
     margin-left: 14px;
-  }
-  
-  .fixed-footer {
-    display:flex;
-    text-align: centre;
+}
+
+.fixed-footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #fff;
     border-top: 2px solid grey;
-    color: #666;
+    margin-top: 70px;
+}
+
+.fixed-footer ul {
+    display: flex;
+    list-style: none;
+    height: 20px;
+}
+
+.fixed-footer li a {
     font-family: nyt-cheltenham, georgia, 'times new roman', times, serif;
-    font-weight: 200;
-  }
+    text-decoration: none;
+}
 
-   .fixed-footer ul  {
-       display: flex;
-      list-style: none;
-   }
+.fixed-footer li .bottom-a {
+    display: block;
+    margin-left: 300px;
+    font-size: 17px;
+    font-weight: 500;
+    color: #666;
+    margin-top: auto;
+    margin-bottom: auto;
+}
 
+.fixed-footer li .bottom-b {
+    display: block;
+    color: black;
+    margin-left: 270px;
+    font-size: 14px;
+    font-weight: 700;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.fixed-footer li .bottom-c {
+    display: block;
+    margin-left: 55px;
+    margin-top: 15px;
+    font-weight: 700;
+    margin-top: auto;
+    margin-bottom: auto;
+}
