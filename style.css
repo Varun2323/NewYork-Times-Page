@@ -3,11 +3,15 @@ body {
   padding: 0;
 }
 
-.navbar {
-  border-bottom: 1px solid lightgray;
-  height: 45px;
-  background-color: white;
+.header {
+  display: block;
   position: fixed;
+  border-bottom: 1px solid lightgray;
+  background-color: white;
+}
+
+.navbar {
+  height: 40px; 
 }
 
 nav ul {
@@ -48,7 +52,6 @@ nav p {
 .times-logo {
   display: block;
   margin-left: 250px;
-  cursor: pointer;
   height: 40px;
   width: 210px;
 }
@@ -87,10 +90,13 @@ nav p {
   cursor: pointer;
 }
 
+.main {
+  font-family: nyt-cheltenham, georgia, 'times new roman', times, serif;
+}
+
 .space-text {
   display: block;
   color: #121212;
-  font-family: nyt-cheltenham, georgia, 'times new roman', times, serif;
   font-weight: 540;
   font-style: italic;
   width: 700px;
@@ -110,7 +116,6 @@ nav p {
 .alanDescription {
   display: block;
   color: #666;
-  font-family: nyt-imperial, georgia, 'times new roman', times, serif;
   line-height: 25px;
   margin-left: 200px;
 }
@@ -121,7 +126,6 @@ nav p {
 
 .dennis {
   display: block;
-  font-family: nyt-franklin, helvetica, arial, sans-serif;
   font-weight: 700;
   color: #333;
   letter-spacing: 0.02em;
@@ -132,7 +136,6 @@ nav p {
 
 .dennis-date {
   display: block;
-  font-family: nyt-franklin, helvetica, arial, sans-serif;
   color: #333;
   letter-spacing: 0.02em;
   margin-top: 15px;
@@ -173,7 +176,6 @@ nav p {
 .kovac p,
 .doc-para p,
 .telescope-p {
-  font-family: nyt-imperial, georgia, 'times new roman', times, serif;
   font-weight: 500;
   font-size: 20px;
   font-stretch: normal;
@@ -205,7 +207,6 @@ nav p {
 }
 
 .border p {
-  font-family: nyt-imperial, georgia, 'times new roman', times, serif;
   font-weight: 700;
   display: block;
   text-align: center;
@@ -225,7 +226,6 @@ nav p {
 
 .aside-head {
   display: inline-block;
-  font-family: nyt-franklin, helvetica, arial, sans-serif;
   font-weight: 700;
   padding-bottom: 10px;
   height: 10px;
@@ -258,7 +258,6 @@ nav p {
 }
 
 .aside-content p {
-  font-family: nyt-franklin, helvetica, arial, sans-serif;
   width: 150px;
   margin-left: 10px;
   line-height: 24px;
@@ -274,7 +273,6 @@ nav p {
 .summary-text {
   font-weight: 400;
   font-style: normal;
-  font-family: nyt-cheltenham-sh, georgia, times new roman, times, serif;
   color: #666;
 }
 
@@ -299,7 +297,6 @@ nav p {
 }
 
 .para-l {
-  font-family: nyt-franklin, arial, helvetica, sans-serif;
   display: block;
   margin-top: 20px;
   padding-top: 5px;
@@ -317,7 +314,6 @@ nav p {
 .headline-para p {
   display: block;
   color: #666;
-  font-family: nyt-imperial, georgia, 'times new roman', times, serif;
   font-size: 0.9375rem;
   line-height: 1.25rem;
 }
@@ -330,7 +326,6 @@ nav p {
 }
 
 .telescope p {
-  font-family: nyt-imperial, georgia, 'times new roman', times, serif;
   font-size: 15px;
   line-height: 25px;
   color: #666;
@@ -339,7 +334,6 @@ nav p {
 .comment-btn {
   background-color: rgb(86, 123, 149);
   border: 1px solid rgb(50, 104, 145);
-  font-family: nyt-franklin, helvetica, arial, sans-serif;
   line-height: 11px;
   font-weight: 700;
   letter-spacing: 0.05em;
@@ -369,7 +363,6 @@ nav p {
 }
 
 .grid-container {
-  font-family: nyt-franklin, arial, helvetica, sans-serif;
   display: grid;
   grid-template-columns: 140px 140px 140px 140px;
   width: 76%;
@@ -382,7 +375,6 @@ nav p {
 
 .grid-container p {
   width: 235px;
-  font-family: nyt-franklin, arial, helvetica, sans-serif;
   margin-top: 70px;
   font-size: 13px;
   line-height: 20px;
@@ -431,7 +423,6 @@ nav p {
 .left-bottom-section p {
   display: block;
   color: rgb(18, 18, 18);
-  font-family: nyt-cheltenham, georgia, "times new roman", times, serif;
   font-weight: 500;
   font-size: 18px;
 }
@@ -461,13 +452,16 @@ nav p {
 .right-grid-section p {
   display: block;
   color: rgb(18, 18, 18);
-  font-family: nyt-cheltenham, georgia, "times new roman", times, serif;
   font-weight: 500;
   font-size: 18px;
   border-top: 1px solid lightgray;
   padding-top: 10px;
   height: 40px;
   line-height: 35px;
+}
+
+.footer {
+  font-family: nyt-cheltenham, georgia, 'times new roman', times, serif;
 }
 
 .footer-top,
@@ -480,6 +474,7 @@ nav p {
 }
 
 .footer-logo {
+  display:flex;
   margin-top: 30px;
   margin-bottom: 30px;
 }
@@ -490,6 +485,17 @@ nav p {
   margin-left: -16px;
 }
 
+.footer-logo a {
+  color: rgb(86, 123, 149);
+  font-size: 11px;
+  text-decoration: none;
+}
+
+.footer-logo p {
+  margin-left: 920px;
+  margin-top: -10px;
+}
+
 .flex-bottom {
   display: flex;
 }
@@ -497,7 +503,6 @@ nav p {
 .flex-bottom li {
   display: block;
   text-decoration: none;
-  font-family: nyt-franklin, helvetica, arial, sans-serif;
   color: rgb(0, 0, 0);
   text-transform: capitalize;
   width: 160px;
@@ -569,8 +574,12 @@ nav p {
   margin-bottom: 80px;
 }
 
-.footer-end li {
+.footer-end a {
+  text-decoration: none;
   color: #666;
+}
+
+.footer-end li {
   display: flex;
   display: inline-block;
   line-height: 20px;
@@ -594,7 +603,6 @@ nav p {
 }
 
 .fixed-footer li a {
-  font-family: nyt-cheltenham, georgia, 'times new roman', times, serif;
   text-decoration: none;
 }
 
