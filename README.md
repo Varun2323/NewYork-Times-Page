@@ -2,11 +2,7 @@
 # The-New-York-Times-Page
 
 ![screenshot](images/part-1.PNG)
-![screenshot](images/part-2.PNG)
-![screenshot](images/part-3.PNG)
-![screenshot](images/part-4.PNG)
-![screenshot](images/part-5.PNG)
-![screenshot](images/part-6.PNG)
+
 
 ### **Description:** 
 
