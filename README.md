@@ -3,7 +3,6 @@
 
 ![screenshot](images/part-1.PNG)
 
-
 ### **Description:** 
 
 Project based The New York Times page, it shows a Subscribe Now and Log In button on the top-right corner, a main section related to news and a footer section.
@@ -31,7 +30,7 @@ Project based The New York Times page, it shows a Subscribe Now and Log In butto
  
  
  
-  [Live demo link](https://varun2323.github.io/NewYork-Times-Page/)
+  [Live demo link]( https://varun2323.github.io/NewYork-Times-Page/)
  
  
 ### **Getting Started:**
