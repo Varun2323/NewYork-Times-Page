@@ -11,592 +11,592 @@ body {
 }
 
 nav ul {
-    margin-top: 5px;
-    list-style-type: none;
-    display: flex;
+  margin-top: 5px;
+  list-style-type: none;
+  display: flex;
 }
 
 nav a {
-    text-decoration: none;
-    color: black;
+  text-decoration: none;
+  color: black;
 }
 
 nav p {
-    margin-top: 0px;
-    margin-left: 20px;
+  margin-top: 0px;
+  margin-left: 20px;
 }
 
 .menu-icon {
-    margin-top: 10px;
+  margin-top: 10px;
 }
 
 .search-icon {
-    margin-left: 25px;
-    margin-top: 10px;
+  margin-left: 25px;
+  margin-top: 10px;
 }
 
 .space {
-    font-family: nyt-franklin, helvetica, arial, sans-serif;
-    display: block;
-    width: 150px;
-    margin-top: 15px;
-    margin-left: 25px;
-    font-weight: 700;
-    font-size: 16px;
+  font-family: nyt-franklin, helvetica, arial, sans-serif;
+  display: block;
+  width: 150px;
+  margin-top: 15px;
+  margin-left: 25px;
+  font-weight: 700;
+  font-size: 16px;
 }
 
 .times-logo {
-    display: block;
-    margin-left: 250px;
-    cursor: pointer;
-    height: 40px;
-    width: 210px;
+  display: block;
+  margin-left: 250px;
+  cursor: pointer;
+  height: 40px;
+  width: 210px;
 }
 
 .subscribe-btn {
-    background-color: rgb(86, 123, 149);
-    border: 1px solid rgb(50, 104, 145);
-    font-family: nyt-franklin, helvetica, arial, sans-serif;
-    line-height: 11px;
-    font-weight: 700;
-    letter-spacing: 0.05em;
-    text-transform: uppercase;
-    color: rgb(255, 255, 255);
-    border-radius: 3px;
-    width: 150px;
-    height: 35px;
-    text-align: center;
-    margin-left: 335px;
-    cursor: pointer;
-    margin-bottom: 8px;
+  background-color: rgb(86, 123, 149);
+  border: 1px solid rgb(50, 104, 145);
+  font-family: nyt-franklin, helvetica, arial, sans-serif;
+  line-height: 11px;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: rgb(255, 255, 255);
+  border-radius: 3px;
+  width: 150px;
+  height: 35px;
+  text-align: center;
+  margin-left: 335px;
+  cursor: pointer;
+  margin-bottom: 8px;
 }
 
 .log-in-btn {
-    background-color: rgb(86, 123, 149);
-    border: 1px solid rgb(50, 104, 145);
-    font-family: nyt-franklin, helvetica, arial, sans-serif;
-    border-radius: 3px;
-    width: 100px;
-    height: 35px;
-    color: white;
-    font-weight: 700;
-    text-align: center;
-    line-height: 11px;
-    text-transform: uppercase;
-    margin-left: 10px;
-    cursor: pointer;
+  background-color: rgb(86, 123, 149);
+  border: 1px solid rgb(50, 104, 145);
+  font-family: nyt-franklin, helvetica, arial, sans-serif;
+  border-radius: 3px;
+  width: 100px;
+  height: 35px;
+  color: white;
+  font-weight: 700;
+  text-align: center;
+  line-height: 11px;
+  text-transform: uppercase;
+  margin-left: 10px;
+  cursor: pointer;
 }
 
 .space-text {
-    display: block;
-    color: #121212;
-    font-family: nyt-cheltenham, georgia, 'times new roman', times, serif;
-    font-weight: 540;
-    font-style: italic;
-    width: 700px;
-    margin: auto;
-    padding-top: 100px;
-    font-size: 2.5em;
+  display: block;
+  color: #121212;
+  font-family: nyt-cheltenham, georgia, 'times new roman', times, serif;
+  font-weight: 540;
+  font-style: italic;
+  width: 700px;
+  margin: auto;
+  padding-top: 100px;
+  font-size: 2.5em;
 }
 
 .alan-guth-img {
-    display: block;
-    margin: auto;
-    width: 950px;
-    height: 600px;
-    padding-top: 30px;
+  display: block;
+  margin: auto;
+  width: 950px;
+  height: 600px;
+  padding-top: 30px;
 }
 
 .alanDescription {
-    display: block;
-    color: #666;
-    font-family: nyt-imperial, georgia, 'times new roman', times, serif;
-    font-size: normal;
-    line-height: 25px;
-    margin-left: 200px;
-    font-weight: 500px;
+  display: block;
+  color: #666;
+  font-family: nyt-imperial, georgia, 'times new roman', times, serif;
+  font-size: normal;
+  line-height: 25px;
+  margin-left: 200px;
+  font-weight: 500px;
 }
 
 .alanDes {
-    color: lightgrey;
+  color: lightgrey;
 }
 
 .dennis {
-    display: block;
-    font-family: nyt-franklin, helvetica, arial, sans-serif;
-    font-weight: 700;
-    color: #333;
-    letter-spacing: 0.02em;
-    font-size: 15px;
-    margin-left: 320px;
-    margin-top: 60px;
+  display: block;
+  font-family: nyt-franklin, helvetica, arial, sans-serif;
+  font-weight: 700;
+  color: #333;
+  letter-spacing: 0.02em;
+  font-size: 15px;
+  margin-left: 320px;
+  margin-top: 60px;
 }
 
 .dennis-date {
-    display: block;
-    font-family: nyt-franklin, helvetica, arial, sans-serif;
-    color: #333;
-    letter-spacing: 0.02em;
-    margin-top: 15px;
-    font-size: 15px;
-    margin-left: 320px;
+  display: block;
+  font-family: nyt-franklin, helvetica, arial, sans-serif;
+  color: #333;
+  letter-spacing: 0.02em;
+  margin-top: 15px;
+  font-size: 15px;
+  margin-left: 320px;
 }
 
 .dennis-logo {
-    display: flex;
+  display: flex;
 }
 
 .mainOutline, .redoCircle, .bookmark, .chatbox {
-    height: 25px;
-    width: 25px;
-    margin-top: 10px;
+  height: 25px;
+  width: 25px;
+  margin-top: 10px;
 }
 
 .mainOutline {
-    margin-left: 390px;
+  margin-left: 390px;
 }
 
 .redoCircle, .bookmark, .chatbox {
-    margin-left: 20px;
+  margin-left: 20px;
 }
 
 .cambridgeMass, .kovac {
-    width: 700px;
-    margin: auto;
+  width: 700px;
+  margin: auto;
 }
 
 .cambridgeMass p, .kovac p, .doc-para p, .telescope-p {
-    font-family: nyt-imperial, georgia, 'times new roman', times, serif;
-    font-weight: 500;
-    font-size: 20px;
-    font-stretch: normal;
-    line-height: 35px;
+  font-family: nyt-imperial, georgia, 'times new roman', times, serif;
+  font-weight: 500;
+  font-size: 20px;
+  font-stretch: normal;
+  line-height: 35px;
 }
 
 .kovac {
-    padding-top: 10px;
+  padding-top: 10px;
 }
 
 .cambridgeMass p a {
-    color: #326891;
+  color: #326891;
 }
 
 .border p {
-    font-family: nyt-imperial, georgia, 'times new roman', times, serif;
-    font-weight: 700;
-    display: block;
-    text-align: center;
-    margin: auto;
+  font-family: nyt-imperial, georgia, 'times new roman', times, serif;
+  font-weight: 700;
+  display: block;
+  text-align: center;
+  margin: auto;
 }
 
 .small-border {
-    width: 80px;
+  width: 80px;
 }
 
 .right {
-    display: block;
-    float: right;
-    margin-top: -1600px;
-    margin-right: 20px;
+  display: block;
+  float: right;
+  margin-top: -1600px;
+  margin-right: 20px;
 }
 
 .right a {
-    text-decoration: none;
-    color: black;
+  text-decoration: none;
+  color: black;
 }
 
 .aside-head {
-    display: inline-block;
-    font-family: nyt-franklin, helvetica, arial, sans-serif;
-    font-weight: 700;
-    padding-bottom: 10px;
-    height: 10px;
+  display: inline-block;
+  font-family: nyt-franklin, helvetica, arial, sans-serif;
+  font-weight: 700;
+  padding-bottom: 10px;
+  height: 10px;
 }
 
 .aside-content {
-    border-top: 1px solid lightgrey;
-    padding-top: 18px;
+  border-top: 1px solid lightgrey;
+  padding-top: 18px;
 }
 
 .aside-content img {
-    width: 80px;
-    height: 80px;
+  width: 80px;
+  height: 80px;
 }
 
 .aside-content-a, .aside-content-b, .aside-content-c {
-    display: flex;
-    padding-bottom: 10px;
-    margin-bottom: 10px;
+  display: flex;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
 }
 
 .aside-content-c {
-    margin-top: -25px;
+  margin-top: -25px;
 }
 
 .aside-content-c p {
-    padding-top: 15px;
+  padding-top: 15px;
 }
 
 .aside-content p {
-    font-family: nyt-franklin, helvetica, arial, sans-serif;
-    width: 150px;
-    margin-left: 10px;
-    line-height: 24px;
-    font-size: 13px;
-    margin-top: -4px;
-    font-weight: 500;
+  font-family: nyt-franklin, helvetica, arial, sans-serif;
+  width: 150px;
+  margin-left: 10px;
+  line-height: 24px;
+  font-size: 13px;
+  margin-top: -4px;
+  font-weight: 500;
 }
 
 .paraBold {
-    font-weight: 700;
+  font-weight: 700;
 }
 
 .summary-text {
-    font-weight: 400;
-    font-style: normal;
-    font-family: nyt-cheltenham-sh, georgia, times new roman, times, serif;
-    color: #666;
+  font-weight: 400;
+  font-style: normal;
+  font-family: nyt-cheltenham-sh, georgia, times new roman, times, serif;
+  color: #666;
 }
 
 .image-grid-top, .image-grid-section {
-    margin: auto;
-    width: 76%;
-    padding-top: 20px;
+  margin: auto;
+  width: 76%;
+  padding-top: 20px;
 }
 
 .image-grid-section {
-    background-image: url("https://static01.nyt.com/newsgraphics/2014/03/18/theory-of-inflation/1ebaa1b972edda0f407fbaa0e010f6b50fb6792e/inflation-945.png");
-    background-repeat: no-repeat;
-    background-size: contain;
+  background-image: url("https://static01.nyt.com/newsgraphics/2014/03/18/theory-of-inflation/1ebaa1b972edda0f407fbaa0e010f6b50fb6792e/inflation-945.png");
+  background-repeat: no-repeat;
+  background-size: contain;
 }
 
 .line {
-    display: block;
-    width: 75px;
-    border: 0.5px solid grey;
-    float: left;
+  display: block;
+  width: 75px;
+  border: 0.5px solid grey;
+  float: left;
 }
 
 .para-l {
-    font-family: nyt-franklin, arial, helvetica, sans-serif;
-    display: block;
-    margin-top: 20px;
-    padding-top: 5px;
-    font-weight: 500;
-    font-size: 13px;
+  font-family: nyt-franklin, arial, helvetica, sans-serif;
+  display: block;
+  margin-top: 20px;
+  padding-top: 5px;
+  font-weight: 500;
+  font-size: 13px;
 }
 
 .video-a, .telescope-img {
-    height: 350px;
-    width: 700px;
+  height: 350px;
+  width: 700px;
 }
 
 .secondVideo p, .headline-para p {
-    display: block;
-    color: #666;
-    font-family: nyt-imperial, georgia, 'times new roman', times, serif;
-    font-size: 0.9375rem;
-    line-height: 1.25rem;
+  display: block;
+  color: #666;
+  font-family: nyt-imperial, georgia, 'times new roman', times, serif;
+  font-size: 0.9375rem;
+  line-height: 1.25rem;
 }
 
 .headline-para {
-    display: block;
-    font-size: 2px;
-    width: 700px;
-    margin: 0px auto 1em;
-    color: rgb(102, 102, 102);
+  display: block;
+  font-size: 2px;
+  width: 700px;
+  margin: 0px auto 1em;
+  color: rgb(102, 102, 102);
 }
 
 .telescope p {
-    font-family: nyt-imperial, georgia, 'times new roman', times, serif;
-    font-size: 15px;
-    line-height: 25px;
-    color: #666;
+  font-family: nyt-imperial, georgia, 'times new roman', times, serif;
+  font-size: 15px;
+  line-height: 25px;
+  color: #666;
 }
 
 .comment-btn {
-    background-color: rgb(86, 123, 149);
-    border: 1px solid rgb(50, 104, 145);
-    font-family: nyt-franklin, helvetica, arial, sans-serif;
-    line-height: 11px;
-    font-weight: 700;
-    letter-spacing: 0.05em;
-    text-transform: uppercase;
-    color: rgb(255, 255, 255);
-    border-radius: 3px;
-    width: 350px;
-    height: 42px;
-    text-align: center;
-    cursor: pointer;
-    margin-bottom: 8px;
+  background-color: rgb(86, 123, 149);
+  border: 1px solid rgb(50, 104, 145);
+  font-family: nyt-franklin, helvetica, arial, sans-serif;
+  line-height: 11px;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: rgb(255, 255, 255);
+  border-radius: 3px;
+  width: 350px;
+  height: 42px;
+  text-align: center;
+  cursor: pointer;
+  margin-bottom: 8px;
 }
 
 .cmt-btn-icon-a, .cmt-btn-icon-b {
-    height: 30px;
-    width: 30px;
-    padding-top: 10p;
+  height: 30px;
+  width: 30px;
+  padding-top: 10p;
 }
 
 .cmt-btn-icon-a {
-    margin-left: 250px;
+  margin-left: 250px;
 }
 
 .cmt-btn-icon-b {
-    margin-left: 20px;
+  margin-left: 20px;
 }
 
 .grid-container {
-    font-family: nyt-franklin, arial, helvetica, sans-serif;
-    display: grid;
-    grid-template-columns: 140px 140px 140px 140px;
-    width: 76%;
-    padding-top: 70px;
-    grid-column-gap: 125px;
-    grid-row-gap: 85px;
-    font-weight: 300;
-    color: #000000;
+  font-family: nyt-franklin, arial, helvetica, sans-serif;
+  display: grid;
+  grid-template-columns: 140px 140px 140px 140px;
+  width: 76%;
+  padding-top: 70px;
+  grid-column-gap: 125px;
+  grid-row-gap: 85px;
+  font-weight: 300;
+  color: #000000;
 }
 
 .grid-container p {
-    width: 235px;
-    font-family: nyt-franklin, arial, helvetica, sans-serif;
-    margin-top: 70px;
-    font-size: 13px;
-    line-height: 20px;
-    font-weight: 300;
-    color: #000000;
+  width: 235px;
+  font-family: nyt-franklin, arial, helvetica, sans-serif;
+  margin-top: 70px;
+  font-size: 13px;
+  line-height: 20px;
+  font-weight: 300;
+  color: #000000;
 }
 
 .main-flex {
-    display: flex;
-    margin-top: 50px;
-    margin-left: auto;
-    margin-right: auto;
+  display: flex;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .left-grid-section, .left-bottom-section {
-    margin-left: 70px;
-    display: block;
-    float: left;
-    width: 840px;
-    border-top: 1px solid black;
+  margin-left: 70px;
+  display: block;
+  float: left;
+  width: 840px;
+  border-top: 1px solid black;
 }
 
 .right-grid-section {
-    display: block;
-    margin-left: 55px;
-    width: 320px;
-    border-top: 1px solid black;
+  display: block;
+  margin-left: 55px;
+  width: 320px;
+  border-top: 1px solid black;
 }
 
 .right-grid-section a, .left-grid-section a {
-    text-decoration: none;
-    color: black;
+  text-decoration: none;
+  color: black;
 }
 
 .grid-container-left, .grid-container-left-bottom {
-    display: grid;
-    grid-template-columns: 250px 250px 250px;
-    grid-column-gap: 40px;
-    grid-row-gap: 30px;
+  display: grid;
+  grid-template-columns: 250px 250px 250px;
+  grid-column-gap: 40px;
+  grid-row-gap: 30px;
 }
 
 .grid-container-left img, .grid-container-left-bottom img {
-    width: 260px;
-    height: 160px;
+  width: 260px;
+  height: 160px;
 }
 
 .grid-container-left p, .left-bottom-section p {
-    display: block;
-    color: rgb(18, 18, 18);
-    font-family: nyt-cheltenham, georgia, "times new roman", times, serif;
-    font-weight: 500;
-    font-size: 18px;
+  display: block;
+  color: rgb(18, 18, 18);
+  font-family: nyt-cheltenham, georgia, "times new roman", times, serif;
+  font-weight: 500;
+  font-size: 18px;
 }
 
 .grid-container-left span {
-    color: #666;
-    font-size: 13px;
-    margin-bottom: -20px;
-    float: right;
+  color: #666;
+  font-size: 13px;
+  margin-bottom: -20px;
+  float: right;
 }
 
 .grid-container-left p>span {
-    float: left;
-    margin-top: 5px;
-    font-size: 16px;
+  float: left;
+  margin-top: 5px;
+  font-size: 16px;
 }
 
 .left-bottom-section {
-    margin-left: 0;
+  margin-left: 0;
 }
 
 .grid-container-right {
-    display: grid;
-    margin-top: -18px;
+  display: grid;
+  margin-top: -18px;
 }
 
 .right-grid-section p {
-    display: block;
-    color: rgb(18, 18, 18);
-    font-family: nyt-cheltenham, georgia, "times new roman", times, serif;
-    font-weight: 500;
-    font-size: 18px;
-    border-top: 1px solid lightgray;
-    padding-top: 10px;
-    height: 40px;
-    line-height: 35px;
+  display: block;
+  color: rgb(18, 18, 18);
+  font-family: nyt-cheltenham, georgia, "times new roman", times, serif;
+  font-weight: 500;
+  font-size: 18px;
+  border-top: 1px solid lightgray;
+  padding-top: 10px;
+  height: 40px;
+  line-height: 35px;
 }
 
 .footer-top, .footer-bottom {
-    display: block;
-    border-top: 1px solid lightgray;
-    margin-top: 40px;
-    margin-left: 40px;
-    margin-right: 40px;
+  display: block;
+  border-top: 1px solid lightgray;
+  margin-top: 40px;
+  margin-left: 40px;
+  margin-right: 40px;
 }
 
 .footer-logo {
-    margin-top: 30px;
-    margin-bottom: 30px;
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
 
 .footer-logo img {
-    display: block;
-    height: 35px;
-    margin-left: -16px;
+  display: block;
+  height: 35px;
+  margin-left: -16px;
 }
 
 .flex-bottom {
-    display: flex;
+  display: flex;
 }
 
 .flex-bottom a {
-    text-decoration: none;
-    color: black;
+  text-decoration: none;
+  color: black;
 }
 
 .flex-bottom li {
-    display: block;
-    text-decoration: none;
-    font-family: nyt-franklin, helvetica, arial, sans-serif;
-    color: rgb(0, 0, 0);
-    text-transform: capitalize;
-    width: 160px;
-    font-size: 16px;
-    font-weight: 500;
-    height: 23px;
-    line-height: 16px;
-    margin-left: -37px;
+  display: block;
+  text-decoration: none;
+  font-family: nyt-franklin, helvetica, arial, sans-serif;
+  color: rgb(0, 0, 0);
+  text-transform: capitalize;
+  width: 160px;
+  font-size: 16px;
+  font-weight: 500;
+  height: 23px;
+  line-height: 16px;
+  margin-left: -37px;
 }
 
 .opinion, .arts, .atHome, .more, .subscribe {
-    margin-left: 30px;
+  margin-left: 30px;
 }
 
 .subscribe {
-    border-left: 1px solid lightgray;
-    padding-left: 20px;
+  border-left: 1px solid lightgray;
+  padding-left: 20px;
 }
 
 .subscribe li>a {
-    text-decoration: none;
-    color: black;
-    font-size: 18px;
-    font-weight: 700;
-    height: 25px;
-    line-height: 15px;
-    padding-bottom: 50px;
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+  font-weight: 700;
+  height: 25px;
+  line-height: 15px;
+  padding-bottom: 50px;
 }
 
 .subscribe li {
-    display: block;
-    width: 250px;
-    font-size: 13px;
+  display: block;
+  width: 250px;
+  font-size: 13px;
 }
 
 .education {
-    display: inline-block;
-    border-bottom: 1px solid lightgray;
-    padding-bottom: 10px;
+  display: inline-block;
+  border-bottom: 1px solid lightgray;
+  padding-bottom: 10px;
 }
 
 .mob, .email {
-    display: inline-block;
-    margin-top: 10px;
+  display: inline-block;
+  margin-top: 10px;
 }
 
 .digital, .home, .games, .cooking {
-    display: inline-block;
-    height: 15px;
-    width: 15px;
-    margin-right: 7px;
-    vertical-align: middle;
+  display: inline-block;
+  height: 15px;
+  width: 15px;
+  margin-right: 7px;
+  vertical-align: middle;
 }
 
 .footer-bottom {
-    position: relative;
+  position: relative;
 }
 
 .footer-end {
-    display: block;
-    margin-bottom: 80px;
+  display: block;
+  margin-bottom: 80px;
 }
 
 .footer-end li {
-    color: #666;
-    display: flex;
-    display: inline-block;
-    line-height: 20px;
-    font-size: 12px;
-    margin-left: 14px;
+  color: #666;
+  display: flex;
+  display: inline-block;
+  line-height: 20px;
+  font-size: 12px;
+  margin-left: 14px;
 }
 
 .fixed-footer {
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-    background-color: #fff;
-    border-top: 2px solid grey;
-    margin-top: 70px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: #fff;
+  border-top: 2px solid grey;
+  margin-top: 70px;
 }
 
 .fixed-footer ul {
-    display: flex;
-    list-style: none;
-    height: 20px;
+  display: flex;
+  list-style: none;
+  height: 20px;
 }
 
 .fixed-footer li a {
-    font-family: nyt-cheltenham, georgia, 'times new roman', times, serif;
-    text-decoration: none;
+  font-family: nyt-cheltenham, georgia, 'times new roman', times, serif;
+  text-decoration: none;
 }
 
 .fixed-footer li .bottom-a {
-    display: block;
-    margin-left: 300px;
-    font-size: 17px;
-    font-weight: 500;
-    color: #666;
-    margin-top: auto;
-    margin-bottom: auto;
+  display: block;
+  margin-left: 300px;
+  font-size: 17px;
+  font-weight: 500;
+  color: #666;
+  margin-top: auto;
+  margin-bottom: auto;
 }
 
 .fixed-footer li .bottom-b {
-    display: block;
-    color: black;
-    margin-left: 270px;
-    font-size: 14px;
-    font-weight: 700;
-    margin-top: auto;
-    margin-bottom: auto;
+  display: block;
+  color: black;
+  margin-left: 270px;
+  font-size: 14px;
+  font-weight: 700;
+  margin-top: auto;
+  margin-bottom: auto;
 }
 
 .fixed-footer li .bottom-c {
-    display: block;
-    margin-left: 55px;
-    margin-top: 15px;
-    font-weight: 700;
-    margin-top: auto;
-    margin-bottom: auto;
+  display: block;
+  margin-left: 55px;
+  margin-top: 15px;
+  font-weight: 700;
+  margin-top: auto;
+  margin-bottom: auto;
 }
