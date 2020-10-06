@@ -619,9 +619,9 @@ nav p {
 }
 
 .fixed-footer li .bottom-c {
-    display: block;
-    margin-left: 55px;
-    font-weight: 700;
-    margin-top: auto;
-    margin-bottom: auto;
-  }
+  display: block;
+  margin-left: 55px;
+  font-weight: 700;
+  margin-top: auto;
+  margin-bottom: auto;
+}
