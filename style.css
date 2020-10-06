@@ -187,18 +187,18 @@ nav p {
 .right a {
   text-decoration: none;
   color: black;
-  }
+}
 
 .right-grid-section a,
 .left-grid-section a {
   text-decoration: none;
   color: black;
-  }
+}
 
 .flex-bottom a {
   text-decoration: none;
   color: black;
-  }
+}
 
 .cambridgeMass p a {
   color: #326891;
@@ -621,7 +621,6 @@ nav p {
 .fixed-footer li .bottom-c {
   display: block;
   margin-left: 55px;
-  margin-top: 15px;
   font-weight: 700;
   margin-top: auto;
   margin-bottom: auto;
