@@ -22,7 +22,7 @@ nav a {
 }
 
 nav p {
-  margin-top: 0px;
+  margin-top: 0;
   margin-left: 20px;
 }
 
@@ -111,10 +111,8 @@ nav p {
   display: block;
   color: #666;
   font-family: nyt-imperial, georgia, 'times new roman', times, serif;
-  font-size: normal;
   line-height: 25px;
   margin-left: 200px;
-  font-weight: 500px;
 }
 
 .alanDes {
@@ -186,6 +184,22 @@ nav p {
   padding-top: 10px;
 }
 
+.right a {
+    text-decoration: none;
+    color: black;
+  }
+
+.right-grid-section a,
+.left-grid-section a {
+    text-decoration: none;
+    color: black;
+  }
+
+  .flex-bottom a {
+    text-decoration: none;
+    color: black;
+  }
+
 .cambridgeMass p a {
   color: #326891;
 }
@@ -207,11 +221,6 @@ nav p {
   float: right;
   margin-top: -1600px;
   margin-right: 20px;
-}
-
-.right a {
-  text-decoration: none;
-  color: black;
 }
 
 .aside-head {
@@ -317,7 +326,6 @@ nav p {
   display: block;
   font-size: 2px;
   width: 700px;
-  margin: 0px auto 1em;
   color: rgb(102, 102, 102);
 }
 
@@ -349,7 +357,7 @@ nav p {
 .cmt-btn-icon-b {
   height: 30px;
   width: 30px;
-  padding-top: 10p;
+  padding-top: 10px;
 }
 
 .cmt-btn-icon-a {
@@ -405,12 +413,6 @@ nav p {
   border-top: 1px solid black;
 }
 
-.right-grid-section a,
-.left-grid-section a {
-  text-decoration: none;
-  color: black;
-}
-
 .grid-container-left,
 .grid-container-left-bottom {
   display: grid;
@@ -441,7 +443,7 @@ nav p {
   float: right;
 }
 
-.grid-container-left p>span {
+.grid-container-left p> span {
   float: left;
   margin-top: 5px;
   font-size: 16px;
@@ -492,11 +494,6 @@ nav p {
   display: flex;
 }
 
-.flex-bottom a {
-  text-decoration: none;
-  color: black;
-}
-
 .flex-bottom li {
   display: block;
   text-decoration: none;
@@ -524,7 +521,7 @@ nav p {
   padding-left: 20px;
 }
 
-.subscribe li>a {
+.subscribe li> a {
   text-decoration: none;
   color: black;
   font-size: 18px;
