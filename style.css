@@ -11,7 +11,7 @@ body {
 }
 
 .navbar {
-  height: 40px; 
+  height: 40px;
 }
 
 nav ul {
@@ -200,6 +200,17 @@ nav p {
 .flex-bottom a {
   text-decoration: none;
   color: black;
+}
+
+.footer-logo a {
+  color: rgb(86, 123, 149);
+  font-size: 11px;
+  text-decoration: none;
+}
+
+.footer-end a {
+  text-decoration: none;
+  color: #666;
 }
 
 .cambridgeMass p a {
@@ -520,12 +531,6 @@ nav p {
   padding-left: 20px;
 }
 
-.footer-logo a {
-  color: rgb(86, 123, 149);
-  font-size: 11px;
-  text-decoration: none;
-}
-
 .subscribe li > a {
   text-decoration: none;
   color: black;
@@ -572,11 +577,6 @@ nav p {
 .footer-end {
   display: block;
   margin-bottom: 80px;
-}
-
-.footer-end a {
-  text-decoration: none;
-  color: #666;
 }
 
 .footer-end li {
