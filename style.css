@@ -1,13 +1,13 @@
 body {
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
 }
 
 .navbar {
-    border-bottom: 1px solid lightgray;
-    height: 45px;
-    background-color: white;
-    position: fixed;
+  border-bottom: 1px solid lightgray;
+  height: 45px;
+  background-color: white;
+  position: fixed;
 }
 
 nav ul {
