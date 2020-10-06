@@ -185,19 +185,19 @@ nav p {
 }
 
 .right a {
-    text-decoration: none;
-    color: black;
+  text-decoration: none;
+  color: black;
   }
 
 .right-grid-section a,
 .left-grid-section a {
-    text-decoration: none;
-    color: black;
+  text-decoration: none;
+  color: black;
   }
 
-  .flex-bottom a {
-    text-decoration: none;
-    color: black;
+.flex-bottom a {
+  text-decoration: none;
+  color: black;
   }
 
 .cambridgeMass p a {
@@ -377,7 +377,7 @@ nav p {
   grid-column-gap: 125px;
   grid-row-gap: 85px;
   font-weight: 300;
-  color: #000000;
+  color: #000;
 }
 
 .grid-container p {
@@ -387,7 +387,7 @@ nav p {
   font-size: 13px;
   line-height: 20px;
   font-weight: 300;
-  color: #000000;
+  color: #000;
 }
 
 .main-flex {
@@ -443,7 +443,7 @@ nav p {
   float: right;
 }
 
-.grid-container-left p> span {
+.grid-container-left p > span {
   float: left;
   margin-top: 5px;
   font-size: 16px;
@@ -521,7 +521,7 @@ nav p {
   padding-left: 20px;
 }
 
-.subscribe li> a {
+.subscribe li > a {
   text-decoration: none;
   color: black;
   font-size: 18px;
@@ -549,7 +549,10 @@ nav p {
   margin-top: 10px;
 }
 
-.digital, .home, .games, .cooking {
+.digital,
+.home,
+.games,
+.cooking {
   display: inline-block;
   height: 15px;
   width: 15px;
