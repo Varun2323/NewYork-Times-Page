@@ -146,7 +146,10 @@ nav p {
   display: flex;
 }
 
-.mainOutline, .redoCircle, .bookmark, .chatbox {
+.mainOutline,
+.redoCircle,
+.bookmark,
+.chatbox {
   height: 25px;
   width: 25px;
   margin-top: 10px;
@@ -156,16 +159,22 @@ nav p {
   margin-left: 390px;
 }
 
-.redoCircle, .bookmark, .chatbox {
+.redoCircle,
+.bookmark,
+.chatbox {
   margin-left: 20px;
 }
 
-.cambridgeMass, .kovac {
+.cambridgeMass,
+.kovac {
   width: 700px;
   margin: auto;
 }
 
-.cambridgeMass p, .kovac p, .doc-para p, .telescope-p {
+.cambridgeMass p,
+.kovac p,
+.doc-para p,
+.telescope-p {
   font-family: nyt-imperial, georgia, 'times new roman', times, serif;
   font-weight: 500;
   font-size: 20px;
@@ -223,7 +232,9 @@ nav p {
   height: 80px;
 }
 
-.aside-content-a, .aside-content-b, .aside-content-c {
+.aside-content-a,
+.aside-content-b,
+.aside-content-c {
   display: flex;
   padding-bottom: 10px;
   margin-bottom: 10px;
@@ -258,7 +269,8 @@ nav p {
   color: #666;
 }
 
-.image-grid-top, .image-grid-section {
+.image-grid-top,
+.image-grid-section {
   margin: auto;
   width: 76%;
   padding-top: 20px;
@@ -286,12 +298,14 @@ nav p {
   font-size: 13px;
 }
 
-.video-a, .telescope-img {
+.video-a,
+.telescope-img {
   height: 350px;
   width: 700px;
 }
 
-.secondVideo p, .headline-para p {
+.secondVideo p,
+.headline-para p {
   display: block;
   color: #666;
   font-family: nyt-imperial, georgia, 'times new roman', times, serif;
@@ -331,7 +345,8 @@ nav p {
   margin-bottom: 8px;
 }
 
-.cmt-btn-icon-a, .cmt-btn-icon-b {
+.cmt-btn-icon-a,
+.cmt-btn-icon-b {
   height: 30px;
   width: 30px;
   padding-top: 10p;
@@ -374,7 +389,8 @@ nav p {
   margin-right: auto;
 }
 
-.left-grid-section, .left-bottom-section {
+.left-grid-section,
+.left-bottom-section {
   margin-left: 70px;
   display: block;
   float: left;
@@ -389,24 +405,28 @@ nav p {
   border-top: 1px solid black;
 }
 
-.right-grid-section a, .left-grid-section a {
+.right-grid-section a,
+.left-grid-section a {
   text-decoration: none;
   color: black;
 }
 
-.grid-container-left, .grid-container-left-bottom {
+.grid-container-left,
+.grid-container-left-bottom {
   display: grid;
   grid-template-columns: 250px 250px 250px;
   grid-column-gap: 40px;
   grid-row-gap: 30px;
 }
 
-.grid-container-left img, .grid-container-left-bottom img {
+.grid-container-left img,
+.grid-container-left-bottom img {
   width: 260px;
   height: 160px;
 }
 
-.grid-container-left p, .left-bottom-section p {
+.grid-container-left p,
+.left-bottom-section p {
   display: block;
   color: rgb(18, 18, 18);
   font-family: nyt-cheltenham, georgia, "times new roman", times, serif;
@@ -448,7 +468,8 @@ nav p {
   line-height: 35px;
 }
 
-.footer-top, .footer-bottom {
+.footer-top,
+.footer-bottom {
   display: block;
   border-top: 1px solid lightgray;
   margin-top: 40px;
@@ -490,7 +511,11 @@ nav p {
   margin-left: -37px;
 }
 
-.opinion, .arts, .atHome, .more, .subscribe {
+.opinion,
+.arts,
+.atHome,
+.more,
+.subscribe {
   margin-left: 30px;
 }
 
@@ -521,7 +546,8 @@ nav p {
   padding-bottom: 10px;
 }
 
-.mob, .email {
+.mob,
+.email {
   display: inline-block;
   margin-top: 10px;
 }
