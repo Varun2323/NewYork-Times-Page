@@ -474,7 +474,7 @@ nav p {
 }
 
 .footer-logo {
-  display:flex;
+  display: flex;
   margin-top: 30px;
   margin-bottom: 30px;
 }
@@ -483,12 +483,6 @@ nav p {
   display: block;
   height: 35px;
   margin-left: -16px;
-}
-
-.footer-logo a {
-  color: rgb(86, 123, 149);
-  font-size: 11px;
-  text-decoration: none;
 }
 
 .footer-logo p {
@@ -524,6 +518,12 @@ nav p {
 .subscribe {
   border-left: 1px solid lightgray;
   padding-left: 20px;
+}
+
+.footer-logo a {
+  color: rgb(86, 123, 149);
+  font-size: 11px;
+  text-decoration: none;
 }
 
 .subscribe li > a {
